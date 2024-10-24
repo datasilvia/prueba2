@@ -1,1 +1,1 @@
-print("DIOS")
+print("DIOS ES AMOR")
